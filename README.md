@@ -41,6 +41,7 @@ Ingeniera en Geomática con experiencia en análisis catastral, cartografía dig
 
 - LinkedIn: www.linkedin.com/in/andrea-bravo-negrete
 - Email: andrea_bn10@hotmail.com
-
+- Email: andrea.bn1209@gmail.com
+ 
 ---
 ⭐ Siempre buscando combinar GIS + Data Analytics para resolver problemas territoriales y urbanos.
