@@ -2,6 +2,8 @@
 
 ## Geospatial Data Analyst | GIS | SQL | Python | Power BI
 
+Ingeniera en Geomática con experiencia en análisis catastral, cartografía digital y gestión de datos geoespaciales en entorno municipal. Actualmente enfocada en fortalecer habilidades en análisis de datos, visualización y automatización mediante SQL, Python, Power BI y tecnologías GIS.
+
 ---
 
 ## Acerca de mi
