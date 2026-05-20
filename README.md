@@ -1,16 +1,44 @@
-## Hi there 👋
+# Andrea-Bravo-Negrete
 
-<!--
-**AndreaBravo-DA/AndreaBravo-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Geospatial Data Analyst | GIS | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acerca de mi
+
+- 📍 Experencia en cartografía digital y análisis espacial
+- 🗺️ Experiencia en QGIS, ArcGIS y AutoCAD
+- 🛢️ Manejo de PostgreSQL/PostGIS
+- 📊 Aprendiendo Data Analytics 
+- 🐍 Interés en automatización y análisis con Python
+- 📈 Creando dashboards y proyectos GIS/Data
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### GIS & CAD
+- QGIS
+- ArcGIS
+- AutoCAD
+- PostGIS
+
+### Data Analytics
+- SQL
+- Python
+- Power BI
+- Excel
+
+### Bases de Datos
+- PostgreSQL
+- PostGIS
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: www.linkedin.com/in/andrea-bravo-negrete
+- Email: andrea_bn10@hotmail.com
+
+---
+⭐ Siempre buscando combinar GIS + Data Analytics para resolver problemas territoriales y urbanos.
