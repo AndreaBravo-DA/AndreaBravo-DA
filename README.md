@@ -30,6 +30,7 @@ Ingeniera en Geomática con experiencia en análisis catastral, cartografía dig
 - Python
 - Power BI
 - Excel
+- Google Sheets
 
 ### Bases de Datos
 - PostgreSQL
