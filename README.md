@@ -14,7 +14,7 @@ Ingeniera en Geomática con experiencia en análisis catastral, cartografía dig
   
 - 🛢️ Manejo de PostgreSQL/PostGIS
   
-- 📊 Aprendiendo Data Analytics
+- 📊 Desarrollando habilidades en Data Analytics
   
 - 🐍 Interés en automatización y análisis con Python
   
