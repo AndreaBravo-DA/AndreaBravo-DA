@@ -9,10 +9,15 @@ Ingeniera en Geomática con experiencia en análisis catastral, cartografía dig
 ## Acerca de mi
 
 - 📍 Experencia en cartografía digital y análisis espacial
+  
 - 🗺️ Experiencia en QGIS, ArcGIS y AutoCAD
+  
 - 🛢️ Manejo de PostgreSQL/PostGIS
-- 📊 Aprendiendo Data Analytics 
+  
+- 📊 Aprendiendo Data Analytics
+  
 - 🐍 Interés en automatización y análisis con Python
+  
 - 📈 Creando dashboards y proyectos GIS/Data
 
 ---
